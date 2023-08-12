@@ -46,4 +46,4 @@ As a developer working for an e-commerce startup, the goal is to provide a REST 
 
 ### Deployment
 
-The API service is deployed using [Railway.app](https://railway.app/). The live API URL is [[https://your-app-url.railway.app](https://your-app-url.railway.app](https://week-8-shoqrizidan-production.up.railway.app/)).
+The API service is deployed using [Railway.app](https://railway.app/). The live API URL is [https://your-app-url.railway.app](https://week-8-shoqrizidan-production.up.railway.app/]).
